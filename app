@@ -1,4 +1,4 @@
-while [ 10 ]; do
-	date
-	sleep 1
+for i in 1 2 3 4 5
+do
+ echo "Hello $i"
 done
