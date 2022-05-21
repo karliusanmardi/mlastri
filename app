@@ -1,6 +1,6 @@
-x=10
-while [ $x -gt 0 ]
-do
-echo hello && sleep 1s
-x=$(( $x - 1 ))
+echo "Perulangan Urutan"
+i=0
+while [ $i -lt 5 ]; do
+    echo "di ulang"
+let i=i+1
 done
