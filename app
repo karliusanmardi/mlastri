@@ -1,4 +1,4 @@
-while [1]
+while : [10]
 do
 echo hello boss
 done
