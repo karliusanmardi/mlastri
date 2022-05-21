@@ -1,3 +1,6 @@
-for i in 1 2 3 4 5; do
-echo "Hello $i"
+line=0
+while [ $line -le 5 ]
+do
+  echo This is number $line
+  ((line++))
 done
