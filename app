@@ -1,4 +1,4 @@
-while : [10]
+for angka in {1..10};
 do
-echo hello boss
+   echo "angka=$angka";
 done
