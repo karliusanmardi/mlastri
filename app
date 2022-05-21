@@ -1,1 +1,1 @@
-while true; do; echo hello boss; done
+while y; do; echo hello boss; done
