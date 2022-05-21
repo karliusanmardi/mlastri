@@ -1,6 +1,4 @@
-echo "Perulangan Urutan"
-i=0
-while; [ $i -lt 5 ]; do
+while [ 0 -lt 5 ]; do
     echo "di ulang"
-let i=i+1
+let 0=0+1
 done
