@@ -1,4 +1,4 @@
-for angka in {1..10};
+for angka in {1..10}
 do
-   echo "angka=$angka";
+   echo "angka=$angka"
 done
