@@ -1,1 +1,1 @@
-while true; do echo "this is infinite loop";done
+while true; do; echo hello boss; done
